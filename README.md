@@ -183,7 +183,7 @@ yarn build
 
 项目于 2018 年到至今一直坚持维护和开源, 经过 N 次的迭代与优化, 如果项目能帮到您是我的荣幸。
 
-您可以请作者喝杯咖啡，继续战斗下去（请备注 Github 名字）~
+您可以请作者喝杯咖啡，继续战斗下去1（请备注 Github 名字）~
 
 <img src="https://cdn.jsdelivr.net/gh/xjh22222228/public@gh-pages/img/32.png" width="600">
 
